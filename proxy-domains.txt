@@ -1,9 +1,5 @@
-google.com
 google.com.hk
-googleapis.com
-gstatic.com
-ggpht.com
-googleusercontent.com
+ent.com
 youtube.com
 googlevideo.com
 ytimg.com
@@ -14,12 +10,15 @@ githubassets.com
 bing.com
 bing.cn
 bing.net
+bingapis.com
 live.com
 stackoverflow.com
 wikipedia.org
 godaddy.com
 cloudflare.com
 twitter.com
+x.com
+twimg.com
 docker.com
 facebook.com
 facebook.net
@@ -27,3 +26,10 @@ fbcdn.net
 segment.io
 unpkg.com
 jsdelivr.com
+tv.apple.com
+instagram.com
+cdninstagram.com
+reddit.com
+redd.it
+whatsapp.com
+whatsapp.net
